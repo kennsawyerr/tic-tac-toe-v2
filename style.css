@@ -14,10 +14,11 @@ button {
   padding: 8px;
   background-color: yellow;
   font-size: 30px;
+  border-radius: 20px;
   /* margin: 20px auto; */
   text-align: center;
   /* font-weight: 500; */
-  padding: 30px;
+  padding: 20px 30px;
   font-family: inherit;
 }
 
