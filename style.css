@@ -12,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   border: 6px solid yellow;
-  font-family: "Permanent Marker", sans-serif;
+  font-family: "Permanent Marker", cursive;
 }
 
 button {
@@ -113,15 +113,11 @@ h1 {
     font-size: 30px;
   }
 
-
-  button{
+  button {
     font-size: 20px;
     padding: 10px;
   }
-  #statusText{
+  #statusText {
     font-size: 20px;
-
   }
-  
 }
-
